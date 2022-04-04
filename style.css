@@ -1,0 +1,16 @@
+
+#draggable { width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; }
+#droppable { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; }
+
+img {
+  size: 25px;
+}
+
+h3 {
+  text-align: center;
+}
+
+footer {
+  background-color: #F4C2C2;
+}
+
